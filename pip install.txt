@@ -1,0 +1,22 @@
+pip install pypng
+
+pip install pyqrcode
+
+
+pip install opencv-python
+pip install tqdm
+
+pip install pypng
+or 
+pip install png
+pip install cv
+
+pip install pyzbar
+
+
+pip install colorama
+
+
+pip install numpy
+
+
