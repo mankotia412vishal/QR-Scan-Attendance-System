@@ -52,4 +52,13 @@ In QRCodes directory The separate QR will be generated to the person and by usin
 ```
 aka
 ```
-## If there is any doubt feel free to ask me by contacting me on the whatsapp or through by email
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/90970004/219342913-a6751b94-ed40-4eee-b73e-6268da11cfe9.png)
+
+![image](https://user-images.githubusercontent.com/90970004/219342992-314ea3c9-0cc7-4975-8884-6f76a19b1804.png)
+
+![image](https://user-images.githubusercontent.com/90970004/219343030-3df6d5cb-826b-4eed-8510-89455ab94c73.png)
+
+
+  If there is any doubt feel free to ask me by contacting me on the whatsapp or through by email
